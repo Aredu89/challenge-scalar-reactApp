@@ -1,0 +1,9 @@
+body {
+  font-family: Sans-serif;
+  color: #686868;
+  overflow-x: hidden;
+  padding: 15px;
+}
+button:focus{
+  outline: none;
+}

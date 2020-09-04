@@ -1,0 +1,14 @@
+.crear-registro .titulo{
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.crear-registro .MuiButtonBase-root.MuiButton-root{
+  width: 100%;
+  height: 56px;
+}
+
+.crear-registro .error{
+  color: red;
+}

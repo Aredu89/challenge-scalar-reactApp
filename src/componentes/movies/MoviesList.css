@@ -1,0 +1,19 @@
+.monedas-lista .titulo{
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.monedas-lista .MuiButtonBase-root.MuiButton-root{
+  width: 100%;
+  height: 56px;
+}
+
+.monedas-lista .columna-eliminar{
+  width: 30px;
+}
+
+.monedas-lista .MuiButtonBase-root.MuiButton-root.delete-button{
+  height: 30px;
+  width: 30px;
+}

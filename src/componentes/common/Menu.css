@@ -1,0 +1,10 @@
+.main-container .menu{
+  color: #fff;
+  font-weight: 500;
+  border-right: 1px solid grey;
+  background-color: #686868;
+}
+
+.main-container .submenu{
+  padding-left: 40px;
+}

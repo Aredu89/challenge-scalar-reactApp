@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Lista tests Lista Snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="pt-2 pb-2"
+  >
+    <div>
+      No hay datos para mostrar
+    </div>
+  </div>
+</DocumentFragment>
+`;

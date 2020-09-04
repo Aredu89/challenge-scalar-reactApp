@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App tests App Snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="login-main d-flex"
+    >
+      <div
+        class="login"
+      >
+        <div
+          class="titulo-login text-center"
+        >
+          Login
+        </div>
+        <div
+          class="subtitulo text-center"
+        >
+          App de finanzas
+        </div>
+        <div
+          class="mt-3 mb-3"
+        >
+          <div
+            class="input-form w-100"
+          >
+            <div
+              class="MuiFormControl-root MuiTextField-root"
+            >
+              <label
+                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                data-shrink="false"
+                for="Email"
+                id="Email-label"
+              >
+                Email
+              </label>
+              <div
+                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+              >
+                <input
+                  aria-invalid="false"
+                  class="MuiInputBase-input MuiOutlinedInput-input"
+                  id="Email"
+                  rows="4"
+                  type="email"
+                  value=""
+                />
+                <fieldset
+                  aria-hidden="true"
+                  class="PrivateNotchedOutline-root-1 MuiOutlinedInput-notchedOutline"
+                >
+                  <legend
+                    class="PrivateNotchedOutline-legendLabelled-3"
+                  >
+                    <span>
+                      Email
+                    </span>
+                  </legend>
+                </fieldset>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="mt-3 mb-3"
+        >
+          <div
+            class="input-form w-100"
+          >
+            <div
+              class="MuiFormControl-root MuiTextField-root"
+            >
+              <label
+                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                data-shrink="false"
+                for="Password"
+                id="Password-label"
+              >
+                Password
+              </label>
+              <div
+                class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+              >
+                <input
+                  aria-invalid="false"
+                  class="MuiInputBase-input MuiOutlinedInput-input"
+                  id="Password"
+                  rows="4"
+                  type="password"
+                  value=""
+                />
+                <fieldset
+                  aria-hidden="true"
+                  class="PrivateNotchedOutline-root-1 MuiOutlinedInput-notchedOutline"
+                >
+                  <legend
+                    class="PrivateNotchedOutline-legendLabelled-3"
+                  >
+                    <span>
+                      Password
+                    </span>
+                  </legend>
+                </fieldset>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="mt-3 mb-3"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              Iniciar Sesión
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <a
+          href="/signin"
+        >
+          Registrar nuevo usuario
+        </a>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
